@@ -6,11 +6,11 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "hieronymus"
-version = "1.0.2"
+version = "1.0.3"
 description = "Create a minimal python package."
 readme = "README.rst"
 authors = [
-    { name = "Johannes", email = "johannes-programming@mailfence.org" },
+    { name = "Johannes", email = "johannes-programming@mailfence.com" },
 ]
 classifiers = [
     "License :: OSI Approved :: MIT License",
