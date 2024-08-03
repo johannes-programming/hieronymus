@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "hieronymus"
-version = "1.0.1"
+version = "1.0.2"
 description = "Create a minimal python package."
 readme = "README.rst"
 authors = [
