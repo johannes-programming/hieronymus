@@ -6,11 +6,11 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "hieronymus"
-version = "0.0.0"
-description = "hieronymus"
-readme = "README.rst"
+version = "1.0.0"
+description = "Create a minimal python package."
+readme = "README.md"
 authors = [
-    { name = "Johannes", email = "johannes-programming@mailfence.com" },
+    { name = "Johannes", email = "johannes-programming@mailfence.org" },
 ]
 classifiers = [
     "License :: OSI Approved :: MIT License",
@@ -18,7 +18,9 @@ classifiers = [
     "Programming Language :: Python :: 3",
 ]
 keywords = []
-dependencies = []
+dependencies = [
+    "fileunity>=1.1",
+]
 requires-python = ">=3.11"
 
 [project.license]
@@ -27,4 +29,3 @@ file = "LICENSE.txt"
 [project.urls]
 Download = "https://pypi.org/project/hieronymus/#files"
 Source = "https://github.com/johannes-programming/hieronymus"
-

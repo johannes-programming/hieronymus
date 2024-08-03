@@ -1,1 +1,2 @@
-
+include src/hieronymus/drafts/*.txt
+exclude src/hieronymus/config.toml
