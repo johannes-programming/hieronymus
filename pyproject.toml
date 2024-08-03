@@ -6,9 +6,9 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "hieronymus"
-version = "1.0.0"
+version = "1.0.1"
 description = "Create a minimal python package."
-readme = "README.md"
+readme = "README.rst"
 authors = [
     { name = "Johannes", email = "johannes-programming@mailfence.org" },
 ]
